@@ -19,4 +19,20 @@
 // }else{
 //     echo "salah";
 // }
+
+//if else if
+$x = 100;
+if ( $x <=50){
+    echo "E";
+} else if ($x >=51 && $x <=60){
+    echo "D";
+} else if ($x >=61 && $x <=70){
+    echo "C";
+} else if ($x >=71 && $x <=80){
+    echo "B";
+} else{
+    echo "A";
+}
+   
+    
 ?>
