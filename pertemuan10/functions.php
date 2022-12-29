@@ -1,7 +1,7 @@
 <?php 
 
     // koneksi ke database
-    $conn = mysqli_connect("localhost", "root", "", "db_20241025");
+    $conn = mysqli_connect("localhost", "root", "", "db_20241008");
 
     // query
     function query($query) {

@@ -15,9 +15,16 @@
 // $i++;
 // }
 
-$i=0;
-while($i < 5){
-    echo"rauda <br>";
-    $i++;
-}
+// $i=0;
+// while($i < 5){
+//     echo"rauda <br>";
+//     $i++;
+// }
+
+// menggunakan doo.. while
+// $i =0;
+// do {
+//   echo "hello world! <br>";
+// $i++;  
+// }while($i <5);
  ?>
